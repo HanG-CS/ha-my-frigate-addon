@@ -1,5 +1,5 @@
 name: Frigate
-version: 0.16.3
+version: 0.16.3-custom1
 breaking_versions:
   - 0.16.0
   - 0.15.0
@@ -9,7 +9,7 @@ panel_title: Frigate
 slug: frigate
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/HanG-CS/ha-my-frigate-addon.git"
-image: ghcr.io/hang-cs/frigate-custom-arm64:0.16.3-custom1
+image: ghcr.io/hang-cs/frigate-custom-arm64
 startup: application
 boot: auto
 init: false
